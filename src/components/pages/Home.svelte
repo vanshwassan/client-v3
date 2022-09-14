@@ -207,7 +207,7 @@
 			<div class='hero-inner'>
 				
 				<div>
-					<div class='tagline'>Free Decentralized Perpetual Exchange</div>
+					<div class='tagline'>Perped Frontend</div>
 
 					<div class="pill">0% Fees</div>
 					<div class="pill">50× Leverage</div>
